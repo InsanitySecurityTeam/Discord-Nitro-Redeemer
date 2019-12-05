@@ -1,9 +1,9 @@
 # Discord Nitro Auto Redeemer aka Nitro-Sniper
 
 # WARNING 
-> **THIS WILL NOT WORK WITH MFA (2FA) ACCOUNT
+> **THIS WILL NOT WORK WITH MFA (2FA) ACCOUNT**
 
-> Note: By using this script you are breaking Discord's Terms of Service. **Use at your own risk.**
+> Note: By using this script you are breaking Discord's Terms of Service. **USE AT YOUR OWN RISK.**
 
 
 ## Features
