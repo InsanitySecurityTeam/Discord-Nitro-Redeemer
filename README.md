@@ -1,5 +1,7 @@
 # Discord Nitro Auto Redeemer aka Nitro-Sniper
 
+#### THIS WILL NOT WORK WITH MFA (2FA) ACCOUNT
+
 ## Features
 - Automatically redeem nitro gifts sent across all of your servers.
 ## Credits
