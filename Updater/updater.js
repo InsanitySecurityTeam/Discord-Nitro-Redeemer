@@ -1,10 +1,10 @@
 const request = require('snekfetch');
-let botVersion = require("../package.json").version;
+const botVersion = require("../package.json").version;
 const Logger = require("../Monitors/console-monitor.js"); // Console Monitor
 const ascii = require('../Settings/ascii.json');
 const fs = require('fs');
 const notifier = require('node-notifier');
-var sleep = require('sleep');
+const sleep = require('sleep');
 const Discord = require('discord.js');
 const client = new Discord.Client();
 client.config = require('../Settings/config.json');
