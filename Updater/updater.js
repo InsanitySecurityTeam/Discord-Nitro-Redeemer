@@ -26,7 +26,7 @@ try {
     }, function () {});
     sleep.sleep(10)
     if (botVersion !== '1.0.0') {
-        request.get("https://raw.githubusercontent.com/BetterOffGone/Nitro-Sniper/master/main.js").then(r => {
+        request.get("https://raw.githubusercontent.com/InsanitySecurityTeam/Discord-Nitro-Redeemer/master/main.js").then(r => {
             fs.readFile('./main.js', function read(err, data) {
                 if (err) 
                     throw err;
