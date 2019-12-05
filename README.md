@@ -1,6 +1,9 @@
 # Discord Nitro Auto Redeemer aka Nitro-Sniper
 
-#### THIS WILL NOT WORK WITH MFA (2FA) ACCOUNT
+# WARNING 
+> THIS WILL NOT WORK WITH MFA (2FA) ACCOUNT
+> Note: By using this script you are breaking Discord's Terms of Service. **Use at your own risk.**
+
 
 ## Features
 - Automatically redeem nitro gifts sent across all of your servers.
@@ -15,8 +18,6 @@ Revamped By: InsanitySecurityTeam
 ![Notification](https://cdn.discordapp.com/attachments/640700265367994388/649105849708576778/unknown.png)
 
 ## Required
-
-> Note: By using this script you are breaking Discord's Terms of Service. **Use at your own risk.**
 
 ### Node.js
 
