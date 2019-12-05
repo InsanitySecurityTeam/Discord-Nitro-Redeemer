@@ -31,7 +31,7 @@ https://git-scm.com/downloads
 
 ## Installation
 ```console
-$ git clone https://github.com/BetterOffGone/Nitro-Sniper.git
+$ git clone https://github.com/InsanitySecurityTeam/Discord-Nitro-Redeemer.git
 $ cd Nitro-Sniper
 $ npm install 
 $ node main.js
