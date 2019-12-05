@@ -1,6 +1,11 @@
-# Nitro Auto Redeemer
+# Discord Nitro Auto Redeemer aka Nitro-Sniper
 
-### Automatically redeem nitro gifts sent across all of your servers.
+## Features
+- Automatically redeem nitro gifts sent across all of your servers.
+## Credits
+Original Developer: [Giggl3z](https://github.com/Giggl3z/Discord-Nitro-Redeemer)
+
+Revamped By: InsanitySecurityTeam
 
 ![Gift Redeemer](https://cdn.discordapp.com/attachments/645899747969728512/646063780622499843/image0.jpg)
 
@@ -16,7 +21,6 @@
 https://nodejs.org/en/download/
 
 
-
 You probably will need npm.
 
 ### npm
@@ -26,11 +30,10 @@ https://www.npmjs.com/get-npm
 https://git-scm.com/downloads
 
 ## Installation
-You must put your token in `config.json`
 ```console
-$ git clone https://github.com/Giggl3z/Discord-Nitro-Redeemer.git
-$ cd Discord-Nitro-Redeemer
-$ npm install discord.js chalk request console-title fs
+$ git clone https://github.com/BetterOffGone/Nitro-Sniper.git
+$ cd Nitro-Sniper
+$ npm install 
 $ node main.js
 ```
 
